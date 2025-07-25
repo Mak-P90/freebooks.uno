@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_26",
+      "nombre": "Game Engine Architecture Third Edition by Jason Gregory CRC Press",
+      "isbn": "978-1-1380-3545-4",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Game%20Development/Game_Engine_Architecture_Third_Edition_by_Jason_Gregory_CRC_Press.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61DS4uvJfcL._SY522_.jpg"
+    },
+    {
+      "id": "art_27",
+      "nombre": "Foundations of Game Engine Development Volume 1 Mathematics by Eric Lengyel Terathon Software",
+      "isbn": "978-0-9858117-4-7",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Game%20Development/Foundations_of_Game_Engine_Development_Volume_1_Mathematics_by_Eric_Lengyel_Terathon_Software.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/615Hrr-wDyL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_28",
+      "nombre": "Foundations of Game Engine Development Volume 2 Rendering by Eric Lengyel Terathon Software",
+      "isbn": "978-0-9858117-5-4",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Game%20Development/Foundations_of_Game_Engine_Development_Volume_2_Rendering_by_Eric_Lengyel_Terathon_Software.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61IErSGDw5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_29",
+      "nombre": "Apress Pro HTML5 Games Dec 2012",
+      "isbn": "978-1430247104",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Game%20Development/Apress_Pro_HTML5_Games_Dec_2012.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61tIaGVJIOL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_30",
+      "nombre": "CRC A First Course in Fuzzy Logic",
+      "isbn": "978-1-138-58508-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Fuzzy%20Logic/CRC_A_First_Course_in_Fuzzy_Logic.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81L+RQcWfZL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_31",
+      "nombre": "Packt Elasticsearch Server 3rd Edition",
+      "isbn": "978-1-78588-881-6",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/ElasticSearch/Packt_Elasticsearch_Server_3rd_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81XpEP5uiRL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_32",
+      "nombre": "pro agile net development with scrum",
+      "isbn": "978-1-4302-3534-7",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Dot_NET/pro_agile_net_development_with_scrum.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61smA42q78L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_33",
+      "nombre": "Apps and Services with NET 7 Mark J Price Packt",
+      "isbn": "978-1-80181-343-3",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Dot_NET/Apps_and_Services_with_NET_7_Mark_J_Price_Packt_9781801813433.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61heeP8FtYL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_34",
+      "nombre": "Docker Up and Running Shipping Reliable Containers in Production 2nd Edition",
+      "isbn": "978-1-492-03673-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Docker/Docker_in_Action_Second_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71hWj2qQKrS._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_35",
+      "nombre": "Docker in Action Second Edition",
+      "isbn": "9781617294761",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Docker/Docker_Up_and_Running_Shipping_Reliable_Containers_in_Production_2nd_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71X432GjWpL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_36",
+      "nombre": "Django for Professionals 4 0 William S Vincent Welcome To Code",
+      "isbn": "9781735467238",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Django/Django_for_Professionals_4_0_William_S_Vincent_Welcome_To_Code_9781735467238.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51nfXXy8vBL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_37",
+      "nombre": "Django for Beginners Build websites with Python and Django 4 0 William S Vincent Welcome To Code",
+      "isbn": "9781735467207",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Django/Django_for_Beginners_Build_websites_with_Python_and_Django_4_0_William_S_Vincent_Welcome_To_Code_9781735467207.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61bdK9PBKNL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_38",
+      "nombre": "Django for APIs 4 0 William S Vincent Welcome To Code",
+      "isbn": "9781735467221",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Django/Django_for_APIs_4_0_William_S_Vincent_Welcome_To_Code_9781735467221.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/518xN9WWY5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_39",
+      "nombre": "Django 4 By Example 4th Edition Antonio Mele Bob Belderbos Packt",
+      "isbn": "978180181301",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Django/Django_4_By_Example_4th_Edition_Antonio_Mele_Bob_Belderbos_Packt_978180181301.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41UDztTPdsL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_40",
+      "nombre": "Django 3 Web Development Cookbook 4th Edition Packt Aidas Bendoraitis Jake Kronika",
+      "isbn": "1838987428",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Django/Django_3_Web_Development_Cookbook_4th_Edition_Packt_Aidas_Bendoraitis_Jake_Kronika_1838987428.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61Wn+LtmYnL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_41",
+      "nombre": "Deep Learning for Coders with fastai and PyTorch Howard Gugger OReilly",
+      "isbn": "9781492045526",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Deep_Learning/Deep_Learning_for_Coders_with_fastai_and_PyTorch_Howard_Gugger_OReilly_9781492045526.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91CB1tXICjL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_42",
+      "nombre": "Hands On Data Structures and Algorithms with Python 2nd Edition Benjamin Baka Dr Basant Agarwal Packt",
+      "isbn": "1788995570",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Data_Structures_and_Algorithms/Hands_On_Data_Structures_and_Algorithms_with_Python_2nd_Edition_Benjamin_Baka_Dr_Basant_Agarwal_Packt_1788995570.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61xg0+EK00L._SY522_.jpg"
+    },
+    {
+      "id": "art_43",
+      "nombre": "Data Science for Business by Foster Provost Tom Fawcett O Reilly",
+      "isbn": "9781449361327",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Data_Science/Data_Science_for_Business_by_Foster_Provost_Tom_Fawcett_O_Reilly_9781449361327.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81tyuOUHPNL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_44",
+      "nombre": "Cambridge University Press Data Mining and Data Warehousing",
+      "isbn": "978-1108727747",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Data_Mining/Cambridge_University_Press_Data_Mining_and_Data_Warehousing.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81OlSxfjq-L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_45",
+      "nombre": "Introducing Distributed Application Runtime Dapr Radoslav Gatev Apress",
+      "isbn": "9781484269978",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/DAPR/Introducing_Distributed_Application_Runtime_Dapr_Radoslav_Gatev_Apress_9781484269978.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61D6F3O0SjS._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_46",
+      "nombre": "CSharp 11 and NET 7 Modern Cross Platform Development Fundamentals 7th Edition Mark J Price Packt",
+      "isbn": "9781803237800",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/CSHARP/CSharp_11_and_NET_7_Modern_Cross_Platform_Development_Fundamentals_7th_Edition_Mark_J_Price_Packt_9781803237800.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/415V0EXtLGL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_47",
+      "nombre": "The Art of Immutable Architecture Michael L Perry Apress",
+      "isbn": "9781484259542",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Computer_Architecture/The_Art_of_Immutable_Architecture_Michael_L_Perry_Apress_9781484259542.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61xfBa71j5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_48",
+      "nombre": "Infrastructure as Code 2nd Edition Kief Morris OReilly",
+      "isbn": "978-1-098-11467-1",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cloud/Infrastructure_as_Code_2nd_Edition_Kief_Morris_OReilly.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81kVqbRpOaL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_49",
+      "nombre": "Architecting for Scale High Availability for Your Growing Application",
+      "isbn": "978-1-491-94339-7",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cloud/Architecting_for_Scale_High_Availability_for_Your_Growing_Application.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91i-+fiH2+L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_50",
+      "nombre": "Architecting for Scale 2nd Edition Lee Atchison OReilly",
+      "isbn": "9781492057178",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cloud/Architecting_for_Scale_2nd_Edition_Lee_Atchison_OReilly_9781492057178.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/810ca2BJjJL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_1",
+      "nombre": "Wireshark Fundamentals Vinit Jain Apress",
+      "isbn": "9781484280010",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/WireShark/Wireshark_Fundamentals_Vinit_Jain_Apress_9781484280010.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61mVHLugpVL._SY522_.jpg"
+    },
+    {
+      "id": "art_2",
+      "nombre": "Introduction to the Theory of Computation 3rd Edition",
+      "isbn": " 9781-133-18779-0",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Theory_of_Computation/Introduction_to_the_Theory_of_Computation_3rd_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61dPNb6AUJL._SY522_.jpg"
+    },
+    {
+      "id": "art_3",
+      "nombre": "Software Development From A to Z Olga Filipova Rui Vilao Apress",
+      "isbn": "9781-484-23944-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Software_Development_Design/Software_Development_From_A_to_Z_Olga_Filipova_Rui_Vilao_Apress_9781484239445.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61L4tdLATmL._SY522_.jpg"
+    },
+    {
+      "id": "art_4",
+      "nombre": "Software Development Design and Coding John F Dooley Apress",
+      "isbn": "9781-484-23152-4",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Software_Development_Design/Software_Development_Design_and_Coding_John_F_Dooley_Apress_9781484231524.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61iOifccaWL._SY522_.jpg"
+    },
+    {
+      "id": "art_5",
+      "nombre": "Pearson Agile Software Development Principles Patterns and Practices",
+      "isbn": "9781-292-02594-0",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Software_Development_Design/Pearson_Agile_Software_Development_Principles_Patterns_and_Practices.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91ms4Y0mzWL._SY522_.jpg"
+    },
+    {
+      "id": "art_6",
+      "nombre": "Designing Software Architectures A Practical Approach by Humberto Cervantes Rick Kazman Addison Wesley",
+      "isbn": "9780-134-39078-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Software_Development_Design/Designing_Software_Architectures_A_Practical_Approach_by_Humberto_Cervantes_Rick_Kazman_Addison_Wesley_9780134390789.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51FAymh5r9L._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_7",
+      "nombre": "Agile Technical Practices Distilled Gioia Consolaro Santos Packt",
+      "isbn": "9781-838-98084-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Software_Development_Design/Agile_Technical_Practices_Distilled_Gioia_Consolaro_Santos_Packt_9781838980849.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41g571UaCBL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_8",
+      "nombre": "Software Architecture The Hard Parts Neal Ford OReilly",
+      "isbn": "9781-492-08689-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Software_Architecture/Software_Architecture_The_Hard_Parts_Neal_Ford_OReilly_9781492086895.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51oVT2PQgPL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_9",
+      "nombre": "Data and Computer Communications 10th Edition",
+      "isbn": "978-0-13-350648-8",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Redes/Data_and_Computer_Communications_10th_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91IOF2mZiAL._SY522_.jpg"
+    },
+    {
+      "id": "art_10",
+      "nombre": "Cryptography and Network Security Global Edition 8th Edition William Stallings Pearson 2023",
+      "isbn": "978-1-292-43748-4",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Redes/Cryptography_and_Network_Security_Global_Edition_8th_Edition_William_Stallings_Pearson_9781292437484.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61AvCSd8L-L._SY522_.jpg"
+    },
+    {
+      "id": "art_11",
+      "nombre": "Computer Networks A Systems Approach 6th Edition by Bruce S Davie Larry L Peterson Morgan Kaufmann",
+      "isbn": "978-0-12-818200-0",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Redes/Computer_Networks_A_Systems_Approach_6th_Edition_by_Bruce_S_Davie_Larry_L_Peterson_Morgan_Kaufmann_9780128182000.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51KJf6TZJoL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_12",
+      "nombre": "Computer Networking A Top Down Approach 8th Edition by James F Kurose Keith W Ross Pearson",
+      "isbn": "978-0136681557",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Redes/Computer_Networking_A_Top_Down_Approach_8th_Edition_by_James_F_Kurose_Keith_W_Ross_Pearson_9780136681557.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/312HNqDyO4L.jpg"
+    },
+    {
+      "id": "art_13",
+      "nombre": "The Programmers Brain Felienne Hermans Manning",
+      "isbn": "978-1617298677",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Psicologia_Programador/The_Programmers_Brain_Felienne_Hermans_Manning_9781617298677.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/4161pPF4ZxL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_14",
+      "nombre": "Manning OpenStack in Action",
+      "isbn": "978-1617292163",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/OpenStack/Manning_OpenStack_in_Action.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61FwauQhK+L._SL1500_.jpg"
+    },
+    {
+      "id": "art_15",
+      "nombre": "NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistence",
+      "isbn": "978-0-321-82662-6",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/NoSQL/NoSQL_Distilled_A_Brief_Guide_to_the_Emerging_World_of_Polyglot_Persistence.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71bpab55D8L._SY522_.jpg"
+    },
+    {
+      "id": "art_16",
+      "nombre": "NoSQL Data Models Trends And Challenges",
+      "isbn": "978-1-78630-364-6",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/NoSQL/NoSQL_Data_Models_Trends_And_Challenges.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51ILRsYn3hL.jpg"
+    },
+    {
+      "id": "art_17",
+      "nombre": "Hands on Machine Learning with JavaScript Burak Kanber Packt",
+      "isbn": "978-1-78899-824-6",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Machine_Learning/Hands_on_Machine_Learning_with_JavaScript_Burak_Kanber_Packt_1788998243.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91UpM2PIgxL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_18",
+      "nombre": "Domain Driven Laravel by Jesse Griffin Apress",
+      "isbn": "978-1-4842-6022-7",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Laravel/Domain_Driven_Laravel_by_Jesse_Griffin_Apress.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61ywa6PrDDL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_19",
+      "nombre": "Mastering JavaScript Functional Programming 2nd Edition",
+      "isbn": "978-1-83921-306-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/Mastering_JavaScript_Functional_Programming_2nd_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81oyLF2dadL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_20",
+      "nombre": "JavaScript Domain Driven Design",
+      "isbn": "978-1-78439-432-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/JavaScript_Domain_Driven_Design.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81XEyTs1R5L._SY522_.jpg"
+    },
+    {
+      "id": "art_21",
+      "nombre": "Manning HTTP2 in Action",
+      "isbn": "9781617295164",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/Manning_HTTP2_in_Action.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71yA0G9Vi7L._SY522_.jpg"
+    },
+    {
+      "id": "art_22",
+      "nombre": "HTTP The Definitive Guide Brian Totty David Gourley OReilly",
+      "isbn": "978-1-56592-509-0",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/HTTP_The_Definitive_Guide_Brian_Totty_David_Gourley_OReilly_9781565925090.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51kviR05FYL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_23",
+      "nombre": "Packt Mastering Go",
+      "isbn": "978-1-78862-654-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Go/Packt_Mastering_Go.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51widYCsQxL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_24",
+      "nombre": "Black Hat Go by Chris Patten Dan Kottmann Tom Steele No Starch Press",
+      "isbn": "9781593278656",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Go/Black_Hat_Go_by_Chris_Patten_Dan_Kottmann_Tom_Steele_No_Starch_Press_9781593278656.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81k+Ajmu4fL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_25",
+      "nombre": "Physics for JavaScript Games",
+      "isbn": "978-1-4302-6338-8",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Game%20Development/Physics_for_JavaScript_Games.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/615yOT6MOKL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}
