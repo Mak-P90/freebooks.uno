@@ -1371,203 +1371,203 @@
         "id": "art_195",
         "nombre": "HTTP Request Smuggling",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/HTTP_Request_Smuggling.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/HTTP_Request_Smuggling.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_196",
         "nombre": "How To Break MD5 And Other Hash Functions",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/How_To_Break_MD5_And_Other_Hash_Functions.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/How_To_Break_MD5_And_Other_Hash_Functions.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_197",
         "nombre": "Other Injection Attacks",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Other_Injection_Attacks.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Other_Injection_Attacks.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_198",
         "nombre": "Win32 Assembly Components",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Win32_Assembly_Components.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Assembly/Win32_Assembly_Components.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_199",
         "nombre": "Macro Reliability in Win32 Exploits",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Macro_Reliability_in_Win32_Exploits.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Macro_Reliability_in_Win32_Exploits.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_200",
         "nombre": "known attacks against smartcards",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/known_attacks_against_smartcards.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Security/known_attacks_against_smartcards.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_201",
         "nombre": "The FusionAuth Team Breaking down JSON Web Tokens From pros and cons to building and revoking",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/The_FusionAuth_Team_Breaking_down_JSON_Web_Tokens_From_pros_and_cons_to_building_and_revoking_(2022).pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Security/The_FusionAuth_Team_Breaking_down_JSON_Web_Tokens_From_pros_and_cons_to_building_and_revoking_(2022).pdf",
         "portada_libro": ""
       },
       {
         "id": "art_202",
         "nombre": "Understanding Windows Shellcode",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/win32_shellcode.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/win32_shellcode.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_203",
         "nombre": "IP Port Numbers",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/IP_Port_Numbers.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/REDES/IP_Port_Numbers.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_204",
         "nombre": "Pentest Standard",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/pentest_standard.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/pentest_standard.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_205",
         "nombre": "Pentest Accountability By Analyzing Network Traffic & Network Traffic Metadata",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Pentest_Accountability_By_Analyzing_Network_Traffic_&_Network_Traffic_Metadata_2018.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Pentest_Accountability_By_Analyzing_Network_Traffic_&_Network_Traffic_Metadata_2018.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_206",
         "nombre": "HTTP Fingerprinting",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/HTTP_Fingerprinting.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/HTTP_Fingerprinting.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_207",
         "nombre": "LSO HTTP Fingerprinting",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/LSO_HTTP_Fingerprinting.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/LSO_HTTP_Fingerprinting.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_208",
         "nombre": "OReilly MySQL Pocket Reference 2nd Ed 2007",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/OReilly_MySQL_Pocket_Reference_2nd_Ed_2007.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Base_de_Datos/OReilly_MySQL_Pocket_Reference_2nd_Ed_2007.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_209",
         "nombre": "Security in VoIP Telephony Systems",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Security_in_VoIP_Telephony_Systems.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Security/Security_in_VoIP_Telephony_Systems.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_210",
         "nombre": "Reversing Encrypted Callbacks and COM Interfaces",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_211",
         "nombre": "Reversing Encrypted Callbacks and COM Interfaces",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_212",
         "nombre": "Mastering Nmap Scripting Engine",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Mastering_Nmap_Scripting_Engine.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Mastering_Nmap_Scripting_Engine.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_213",
         "nombre": "The Command Line Linux",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/The_Command_Line_Linux.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Linux/The_Command_Line_Linux.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_214",
         "nombre": "MATLAB C C++ Fortran Java and Python API Reference MathWorks (2022)",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/MATLAB_C_C++_Fortran_Java_and_Python_API_Reference_MathWorks_(2022).pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/MATLAB_C_C++_Fortran_Java_and_Python_API_Reference_MathWorks_(2022).pdf",
         "portada_libro": ""
       },
       {
         "id": "art_215",
         "nombre": "nmap guide v1",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/nmap_guide_parte_1.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/nmap_guide_parte_1.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_216",
         "nombre": "Sivaraj Selvaraj Mastering REST APIs Boosting Your Web Development Journey with Advanced API Techniques Apress (2024)",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Sivaraj_Selvaraj_Mastering_REST_APIs_Boosting_Your_Web_Development_Journey_with_Advanced_API_Techniques_Apress_(2024).pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Sivaraj_Selvaraj_Mastering_REST_APIs_Boosting_Your_Web_Development_Journey_with_Advanced_API_Techniques_Apress_(2024).pdf",
         "portada_libro": ""
       },
       {
         "id": "art_217",
         "nombre": "Network Security Tools Writing Hacking andModifying Security Tools 2005",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Network_Security_Tools_Writing_Hacking_andModifying_Security_Tools_2005.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Network_Security_Tools_Writing_Hacking_andModifying_Security_Tools_2005.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_218",
         "nombre": "Sanjay Patni Pro Restful APIs with Micronaut Build Java Based Microservices with Rest Json and XML Apres",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Sanjay_Patni_Pro_Restful_APIs_with_Micronaut_Build_Java_Based_Microservices_with_Rest_Json_and_XML_Apres.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Sanjay_Patni_Pro_Restful_APIs_with_Micronaut_Build_Java_Based_Microservices_with_Rest_Json_and_XML_Apres.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_219",
         "nombre": "OReilly Understanding The Linux Kernel 2000",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/OReilly_Understanding_The_Linux_Kernel_2000.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Linux/OReilly_Understanding_The_Linux_Kernel_2000.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_220",
         "nombre": "Patterns for API Design Simplifying Integration with Loosely Coupled Message",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Patterns_for_API_Design_Simplifying_Integration_with_Loosely_Coupled_Message.pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Patterns_for_API_Design_Simplifying_Integration_with_Loosely_Coupled_Message.pdf",
         "portada_libro": ""
       },
       {
         "id": "art_221",
         "nombre": "Joe Atardi Web API Cookbook Level Up Your JavaScript Applications O'Reilly Media (2024)",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Joe_Atardi_Web_API_Cookbook_Level_Up_Your_JavaScript_Applications_O'Reilly_Media_(2024).pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Joe_Atardi_Web_API_Cookbook_Level_Up_Your_JavaScript_Applications_O'Reilly_Media_(2024).pdf",
         "portada_libro": ""
       },
       {
         "id": "art_222",
         "nombre": "Mark Simon Leveling Up with SQL Advanced Techniques for Transforming Data into Insights Apress (2023)",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Mark_Simon_Leveling_Up_with_SQL_Advanced_Techniques_for_Transforming_Data_into_Insights_Apress_(2023).pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Base_de_Datos/Mark_Simon_Leveling_Up_with_SQL_Advanced_Techniques_for_Transforming_Data_into_Insights_Apress_(2023).pdf",
         "portada_libro": ""
       },
       {
         "id": "art_223",
         "nombre": "Maximiliano Contieri Clean Code Cookbook Recipes to Improve the Design and Quality of your Code O'Reilly Media (2023)",
         "isbn": "",
-        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/uncatalogued/Maximiliano_Contieri_Clean_Code_Cookbook_Recipes_to_Improve_the_Design_and_Quality_of_your_Code_O'Reilly_Media_(2023).pdf",
+        "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Refactoring/Maximiliano_Contieri_Clean_Code_Cookbook_Recipes_to_Improve_the_Design_and_Quality_of_your_Code_O'Reilly_Media_(2023).pdf",
         "portada_libro": ""
       }
     ]
