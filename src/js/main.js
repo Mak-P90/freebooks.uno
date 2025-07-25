@@ -8,22 +8,28 @@ document.addEventListener('DOMContentLoaded', () => {
     const container = document.querySelector('#cont');
     const themeSwitch = document.getElementById('themeSwitch');
 
-    const JSON_PATH = './src/js/libros.json'; // Path to the JSON data
-    const ITEMS_PER_PAGE = 5;                   // Number of items per page
+    const JSON_BASE = './src/js/pages/libros_';  // Base path to paginated JSON
+    const ITEMS_PER_PAGE = 5;                    // Number of items per batch
+    const TOTAL_JSON_PAGES = 9;                  // Total JSON files available
 
-    let page = 0;         // Current page
-    let loading = false;  // Loading flag
-    let finished = false; // Whether all items were loaded
-    let observer;         // Observer for infinite scroll
-    let libros = [];      // Books data
+    let page = 0;              // Current offset inside loaded data
+    let loading = false;       // Loading flag
+    let finished = false;      // Whether all items were loaded
+    let observer;              // Observer for infinite scroll
+    let libros = [];           // Loaded books
+    let jsonPage = 1;          // JSON page currently being fetched
+    const loaderElem = document.getElementById('loader');
 
-    // Fetch JSON data once
+    // Fetch a JSON chunk
     const fetchLibros = async () => {
+        if (jsonPage > TOTAL_JSON_PAGES) { finished = true; return; }
         try {
-            const res = await fetch(JSON_PATH);
+            loaderElem?.classList.add('active');
+            const res = await fetch(`${JSON_BASE}${jsonPage}.json`);
+            if (!res.ok) { finished = true; return; }
             const data = await res.json();
-            libros = data.articulos;
-            loadMore(); // Initial load after fetching data
+            libros = libros.concat(data.articulos ?? data);
+            jsonPage++;
         } catch (err) {
             Logger.error('Error loading data:', err);
         }
@@ -58,16 +64,22 @@ document.addEventListener('DOMContentLoaded', () => {
         applyTheme(link);
         link.href = url;
         link.textContent = 'Download';
-        link.setAttribute('download', '');
+        // The download attribute is omitted because many links
+        // point to cross-origin resources where it is ignored.
 
         article.append(title, description, image, link);
         return article;
     };
 
     // Load more items onto the page
-    const loadMore = () => {
+    const loadMore = async () => {
         if (loading || finished) return;
         loading = true;
+
+        // If we have consumed loaded books, fetch the next JSON chunk
+        if (page * ITEMS_PER_PAGE >= libros.length && !finished) {
+            await fetchLibros();
+        }
 
         const start = page * ITEMS_PER_PAGE;
         const end = start + ITEMS_PER_PAGE;
@@ -76,10 +88,13 @@ document.addEventListener('DOMContentLoaded', () => {
         libros.slice(start, end).forEach(libro => {
             fragment.append(createArticle(libro));
         });
-        container.appendChild(fragment);
 
-        page++;
-        finished = end >= libros.length;
+        if (fragment.childElementCount) {
+            container.appendChild(fragment);
+            page++;
+        }
+
+        finished = page * ITEMS_PER_PAGE >= libros.length && jsonPage > TOTAL_JSON_PAGES;
         if (!finished) observeLast();
         loading = false;
     };

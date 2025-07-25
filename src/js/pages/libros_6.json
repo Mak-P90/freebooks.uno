@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_126",
+      "nombre": "PHP Microservices by Carlos Perez Sanchez Pablo Solar Vilarino Packt",
+      "isbn": "9781787125377",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/PHP/PHP_Microservices_by_Carlos_Perez_Sanchez_Pablo_Solar_Vilarino_Packt_9781787125377.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81pfioFMl2L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_127",
+      "nombre": "Python Crash Course 3rd Edition Eric Matthes No Starch Press",
+      "isbn": "9781718502703",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Python_Crash_Course_3rd_Edition_Eric_Matthes_No_Starch_Press_9781718502703.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81py-nCTfrL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_128",
+      "nombre": "Python Distilled David Beazley Addison Wesley",
+      "isbn": "9780134173276",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Python_Distilled_David_Beazley_Addison_Wesley_9780134173276.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/617CuuS8pvL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_129",
+      "nombre": "Python for Finance Mastering Data Driven Finance 2nd Edition by Yves Hilpisch O'Reilly",
+      "isbn": "9781492024330",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Python_for_Finance_Mastering_Data_Driven_Finance_2nd_Edition_by_Yves_Hilpisch_O'Reilly_9781492024330.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/919ecXlVukL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_130",
+      "nombre": "React and React Native 4th Edition Boduch Sakhniuk Derks Packt",
+      "isbn": "9781803231280",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/React/React_and_React_Native_4th_Edition_Boduch_Sakhniuk_Derks_Packt_9781803231280.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71FkBVXE4oL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_131",
+      "nombre": "React Projects 2nd Edition Roy Derks Packt",
+      "isbn": "9781801070638",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/React/React_Projects_2nd_Edition_Roy_Derks_Packt_9781801070638.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61f3atnSHcL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_132",
+      "nombre": "Refactoring at Scale",
+      "isbn": "9781492075530",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Refactoring/Refactoring_at_Scale_9781492075530.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91DSxEUgzQL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_133",
+      "nombre": "Refactoring Improving the Design of Existing Code 2nd edition",
+      "isbn": "9780134757599",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Refactoring/Refactoring_Improving_the_Design_of_Existing_Code_2nd_edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71e6ndHEwqL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_134",
+      "nombre": "Responsive Web Design with HTML5 and CSS 4th Edition Ben Frain Packt",
+      "isbn": "9781803242712",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Responsive_Design/Responsive_Web_Design_with_HTML5_and_CSS_4th_Edition_Ben_Frain_Packt_9781803242712.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61wpcZO+S2L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_135",
+      "nombre": "Search Patterns O'Reilly",
+      "isbn": " 9780596802271",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Psicologia_Programador/Search_Patterns_O'Reilly.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91XMailFaIL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_136",
+      "nombre": "Secure by Design",
+      "isbn": "9781617294358",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Security/Secure_by_Design.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71cD+Dr8WbL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_137",
+      "nombre": "Serious Cryptography Jean Philippe Aumasson No Starch Press",
+      "isbn": "1593278268",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Serious_Cryptography_Jean_Philippe_Aumasson_No_Starch_Press_1593278268.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91leqBbiQAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_138",
+      "nombre": "Single Page Web Applications",
+      "isbn": "9781617290756",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Single_Page_Applications/Single_Page_Web_Applications.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71sst4NqsrL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_139",
+      "nombre": "Solving Identity Management in Modern Applications",
+      "isbn": "9781484250952",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Security/Solving_Identity_Management_in_Modern_Applications.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61W1r7VehcL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_140",
+      "nombre": "Storey D Pro CSS3 Animation",
+      "isbn": "Sin isbn",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/CSS/Storey_D_Pro_CSS3_Animation.pdf",
+      "portada_libro": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjb4wS3Kg63AFgPTi8cBRN5pyal7YBN6hFg9qEm86ZBtBuY6LO"
+    },
+    {
+      "id": "art_141",
+      "nombre": "Supercharged Python Take Your Code to the Next Level Brian Overland John Bennett Addison Wesley",
+      "isbn": "0135159946",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Supercharged_Python_Take_Your_Code_to_the_Next_Level_Brian_Overland_John_Bennett_Addison_Wesley_0135159946.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/613LIxBeZ2L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_142",
+      "nombre": "The Design of Web APIs",
+      "isbn": "9781617295102",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/The_Design_of_Web_APIs.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61wI3-7Q0uL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_143",
+      "nombre": "The Object Oriented Thought Process 5th Edition",
+      "isbn": "9780135181966",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Object_Oriented_Programming/The_Object_Oriented_Thought_Process_5th_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81FU6XvWUHL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_144",
+      "nombre": "The Python Workshop 2nd Edition Corey Wade Packt",
+      "isbn": "9781804610619",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/The_Python_Workshop_2nd_Edition_Corey_Wade_Packt_9781804610619.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61XPqZQRv5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_145",
+      "nombre": "The TypeScript Workshop Ben Grynhaus Packt",
+      "isbn": "9781838828493",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/TypeScript/The_TypeScript_Workshop_Ben_Grynhaus_Packt_9781838828493.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71OkIm-mbzL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_146",
+      "nombre": "Web Components in Action by Ben Farrell Manning",
+      "isbn": "9781617295775",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Web_Components/Web_Components_in_Action_by_Ben_Farrell_Manning_9781617295775.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61pTA2rYk0L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_147",
+      "nombre": "Pentesting con Kali 2.0",
+      "isbn": "9788460832072",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/0xword_Pentesting_con_Kali_2_2015.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_148",
+      "nombre": "Advanced Penetration Testing for Highly-Secured Environments",
+      "isbn": "9781784395810",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Advanced_Penetration_Testing_for_Highly_Secured_Environments_2016.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_149",
+      "nombre": "Advanced Persistent Threat Hacking 2015",
+      "isbn": "9780071828376",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Advanced_Persistent_Threat_Hacking_2015.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_150",
+      "nombre": "Essential Cryptography for JavaScript Developers",
+      "isbn": "9781801075336",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Alessandro_Segala_Essential_Cryptography_for_JavaScript_Developers_A_practical_guide_to_leveraging_common_cryptographic_operations_in_Node.js_and_the_browser_Packt_Publishing.pdf",
+      "portada_libro": ""
+    }
+  ]
+}

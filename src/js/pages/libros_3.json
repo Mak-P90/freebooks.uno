@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_51",
+      "nombre": "Extreme C",
+      "isbn": "978-1-78934-362-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/C/Extreme_C.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81ESv8AIjyL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_52",
+      "nombre": "Effective C An Introduction to Professional C Programming by Robert C Seacord No Starch Press",
+      "isbn": "9781718501041",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/C/Effective_C_An_Introduction_to_Professional_C_Programming_by_Robert_C_Seacord_No_Starch_Press_9781718501041.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81Z-rf7+WoL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_53",
+      "nombre": "C How to Program 9th Edition Paul Deitel Pearson",
+      "isbn": "9780137398393",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/C/C_How_to_Program_9th_Edition_Paul_Deitel_Pearson_9780137398393.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81EQCSBhCdL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_54",
+      "nombre": "Packt Practical Business Intelligence",
+      "isbn": "978-1-78588-543-3",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Bussiness_Intelligence/Packt_Practical_Business_Intelligence.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/712gNtofTLL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_55",
+      "nombre": "Building Telegram Bots Develop Bots in 12 Programming Languages using the TelegramBot API",
+      "isbn": "978-1-4842-4196-7",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Bots/Building_Telegram_Bots_Develop_Bots_in_12_Programming_Languages_using_the_TelegramBot_API.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61lh51BSe4L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_56",
+      "nombre": "Building Bots with Microsoft Bot Framework nodrm",
+      "isbn": "978-1-78646-310-4",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Bots/Building_Bots_with_Microsoft_Bot_Framework_nodrm.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71Q2Cs2kndL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_57",
+      "nombre": "Apress Developing Bots with Microsoft Bots Framework",
+      "isbn": "978-1-4842-3311-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Bots/Apress_Developing_Bots_with_Microsoft_Bots_Framework.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61x4idPfSlL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_58",
+      "nombre": "Packt Mastering Blockchain",
+      "isbn": "978-1-78712-544-5",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/BlockChain_y_Mas/Packt_Mastering_Blockchain.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91+ncqWWhuL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_59",
+      "nombre": "blockchain basics",
+      "isbn": "978-87-403-3507-1",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/BlockChain_y_Mas/blockchain_basics.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51z2JrzwlzL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_60",
+      "nombre": "Mastering Ethereum Andreas M Antonopoulos",
+      "isbn": "978-1-491-97194-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/BlockChain_y_Mas/Ethereum/Mastering_Ethereum_Andreas_M_Antonopoulos.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/811tZyLunxL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_61",
+      "nombre": "Oreilly Mastering Bitcoin Unlocking Digital Cryptocurrencies",
+      "isbn": "978-1-491-95438-6",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/BlockChain_y_Mas/Bitcoin/Oreilly_Mastering_Bitcoin_Unlocking_Digital_Cryptocurrencies.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81na8FSF9YL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_62",
+      "nombre": "Bitcoin and Cryptocurrency Technologies Princeton 2016",
+      "isbn": "978-0-691-17169-2",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/BlockChain_y_Mas/Bitcoin/Bitcoin_and_Cryptocurrency_Technologies_Princeton_2016.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81dlpMb4o3L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_63",
+      "nombre": "Web Development with Blazor 2nd Edition Jimmy Engstrom Packt",
+      "isbn": "9781803241494",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Blazor/Web_Development_with_Blazor_2nd_Edition_Jimmy_Engstrom_Packt_9781803241494.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61oS0y2iZ5L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_64",
+      "nombre": "Pearson Database Systems A Practical Approach to Design Implementation and Management 6th Global Edition",
+      "isbn": "978-1-292-06118-4",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Base_de_Datos/Pearson_Database_Systems_A_Practical_Approach_to_Design_Implementation_and_Management_6th_Global_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71-WuQuqc9L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_65",
+      "nombre": "Fundamentals of Database Systems 7th Edition",
+      "isbn": "978-0-13-397077-7",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Base_de_Datos/Fundamentals_of_Database_Systems_7th_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71ocXCxUQVL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_66",
+      "nombre": "Cengage Learning Database Systems 13th Edition",
+      "isbn": "978-1-337-68882-6",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Base_de_Datos/Cengage_Learning_Database_Systems_13th_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91GdYi2qwCL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_67",
+      "nombre": "Introduction to Computer Organization Robert Plantz No Starch Press",
+      "isbn": "978-1-7185-0009-9",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Assembly/Introduction_to_Computer_Organization_Robert_Plantz_No_Starch_Press.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51nIaIKr9GL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_68",
+      "nombre": "ASP NET Core in Action Third Edition",
+      "isbn": "9781617294617",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/ASP_NET/ASP_NET_Core_in_Action_Third_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71MIjuA1i-L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_69",
+      "nombre": "Ultimate ASP NET Core Web API Marinko Spasojevic Vladimir Pecanac CodeMaze",
+      "isbn": "Paper sin isbn",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/ASP_NET/Ultimate_ASP_NET_Core_Web_API_Marinko_Spasojevic_Vladimir_Pecanac_CodeMaze.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81L+RQcWfZL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_70",
+      "nombre": "Artificial Intelligence A Modern Approach Global Edition 4th Edition Peter Norvig Stuart Russell Pearson",
+      "isbn": "9781292401133",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Artificial_Intelligence/Artificial_Intelligence_A_Modern_Approach_Global_Edition_4th_Edition_Peter_Norvig_Stuart_Russell_Pearson_9781292401133.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71X6X4-7OYL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_71",
+      "nombre": "Artificial Intelligence A Modern Approach 4th Edition Peter Norvig Stuart Russell Pearson",
+      "isbn": "9780134610993",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Artificial_Intelligence/Artificial_Intelligence_A_Modern_Approach_4th_Edition_Peter_Norvig_Stuart_Russell_Pearson_9780134610993.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91ekAJi0OIL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_72",
+      "nombre": "Software Architecture by Example Paul Michaels Apress",
+      "isbn": "9781484279892",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/ArquitecturaSoftware/Software_Architecture_by_Example_Paul_Michaels_Apress_9781484279892.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71aSIS6uC2L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_73",
+      "nombre": "Pro Angular 5th Edition Apress",
+      "isbn": "9781484281758",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Angular/Pro_Angular_5th_Edition_Apress_9781484281758.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81L+RQcWfZL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_74",
+      "nombre": "Learning Angular 4th Edition Aristeidis Bampakos Packt",
+      "isbn": "9781803240602",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Angular/Learning_Angular_4th_Edition_Aristeidis_Bampakos_Packt_9781803240602.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/716AVcmKbbL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_75",
+      "nombre": "Mastering ABP Framework Halil ibrahim Kalkan Packt",
+      "isbn": "9781801079242",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/ABP_Framework/Mastering_ABP_Framework_Halil_ibrahim_Kalkan_Packt_9781801079242.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61mIuHEHvGL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

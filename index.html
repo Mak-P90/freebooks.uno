@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="robots" content="noindex, nofollow">
-    <link rel="stylesheet" href="./src/style/base.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="./src/style/header.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="./src/style/main.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="./src/style/footer.css" crossorigin="anonymous">
-    <link rel="apple-touch-icon" href="./src/assets/head/apple-touch-icon.png" crossorigin="anonymous">
-    <link rel="shortcut icon" href="./src/assets/head/favicon.ico" crossorigin="anonymous">
-    <link rel="icon" type="image/png" sizes="16x16" href="./src/assets/head/favicon-16x16.png" crossorigin="anonymous">
-    <link rel="icon" type="image/png" sizes="32x32" href="./src/assets/head/favicon-32x32.png" crossorigin="anonymous">
-    <link rel="icon" type="image/png" sizes="192x192" href="./src/assets/head/android-chrome-192x192.png" crossorigin="anonymous">
+    <link rel="stylesheet" href="./src/style/base.css">
+    <link rel="stylesheet" href="./src/style/header.css">
+    <link rel="stylesheet" href="./src/style/main.css">
+    <link rel="stylesheet" href="./src/style/footer.css">
+    <link rel="apple-touch-icon" href="./src/assets/head/apple-touch-icon.png">
+    <link rel="shortcut icon" href="./src/assets/head/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="./src/assets/head/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./src/assets/head/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="./src/assets/head/android-chrome-192x192.png">
     
     <title>Free Books</title>
 </head>
@@ -21,7 +21,7 @@
     <header id="header">
         <h1>Free Books</h1>
         <div class="theme-toggle">
-            <label class="switch">
+            <label class="switch" for="themeSwitch" aria-label="Toggle dark mode">
                 <input type="checkbox" id="themeSwitch">
                 <span class="slider"></span>
             </label>
@@ -31,6 +31,7 @@
         <section id="cont" aria-labelledby="h1_section">
             <h1 id="h1_section">Book Selection</h1>
         </section>
+        <div id="loader" aria-hidden="true"></div>
     </main>
 
     <footer id="footer">
