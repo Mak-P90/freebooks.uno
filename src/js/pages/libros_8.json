@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_176",
+      "nombre": "Cryptography For Developers 2007",
+      "isbn": "1597491047",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Cryptography_For_Developers_2007.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_177",
+      "nombre": "PENETRATION TESTING OF A WEB APPLICATION USING DANGEROUS HTTP METHODS",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/Dangerous_HTTP_Methods.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_178",
+      "nombre": "Exploring and Data Mining the Dark Side of the Web",
+      "isbn": "9781461415565",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/DarkWeb/Dark_Web_Exploring_and_Data_Mining_the_Dark_Side_of_the_Web.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_179",
+      "nombre": "Generative Art with JavaScript and SVG: Utilizing Scalable Vector Graphics and Algorithms for Creative Coding and Design",
+      "isbn": "9798868800856",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/David_Matthew_Generative_Art_with_JavaScript_and_SVG_Utilizing_Scalable_Vector_Graphics_and_Algorithms_for_Creative_Coding_and_Design_Apress_(2024).pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_180",
+      "nombre": "DDoS Handbook",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/DDoS_Handbook.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_181",
+      "nombre": "Developing a Trojan applets in a smart card",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Antivirus/Developing_a_Trojan_applets_in_a_smart_card.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_182",
+      "nombre": "FUNDAMENTALS OF COMPUTER ORGANIZATION AND ARCHITECTURE",
+      "isbn": "0471467405",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Computer_Architecture/Fundamentals_of_Computer_Organization_and_Architecture_2005.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_183",
+      "nombre": "Hands-On Software Architecture with Java",
+      "isbn": "9781800207301",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Java/Giuseppe_Bonocore_Hands_On_Software_Architecture_with_Java_Learn_key_architectural_techniques_and_strategies_to_design_efficient_and_elegant_Java_applications_(2022).pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_184",
+      "nombre": "Google Hacking for Penetration Testers, Volume 2",
+      "isbn": "9781597491761",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Google_Hacking_2008.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_185",
+      "nombre": "Gray Hat C#",
+      "isbn": "9781593277598",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/CSHARP/Gray_Hat_C_Sharp_2017.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_186",
+      "nombre": "The Ethical Hacker\u2019s Handbook, Fifth Edition",
+      "isbn": "9781260108422",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Gray_Hat_Hacking_the_Ethical_Hacker\u2019s_Handbook_5_Ed_2018.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_187",
+      "nombre": "Gray Hat Hacking, Third Edition",
+      "isbn": "9780071742566",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Gray_Hat_Hacking_The_Ethical_Hacker's_Handbook_3e_2011.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_188",
+      "nombre": "Hacking Secret Ciphers with Python",
+      "isbn": "9781482614374",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/hacking_ciphers_2013.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_189",
+      "nombre": "Hacking For Dummies, 6th Edition",
+      "isbn": "9781119485544",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Hacking_for_Dummies_6th_Edition_2018.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_190",
+      "nombre": "Hacking in C, The C programming language",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/C/Hacking_in_C.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_191",
+      "nombre": "Hacking Point of Sale: Payment Application Secrets, Threats, and Solutions",
+      "isbn": "9781118810118",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Hacking_POS.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_192",
+      "nombre": "Hacking Web Intelligence",
+      "isbn": " 9780128018675",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Hacking_Web_Intelligence_Open_Source_Intelligence_and_Web_Reconnaissance_Concepts_and_Techniques_2015.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_193",
+      "nombre": "Hacking Wireless Access Points Cracking, Tracking, and Signal Jacking",
+      "isbn": "9780128053157",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking_Wireless_Access_PointsCracking_Tracking_and_Signal_Jacking_2017.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_194",
+      "nombre": "Hash Crack Password Cracking Manual 2017",
+      "isbn": "9781975924584",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Hash_Crack_Password_Cracking_Manual_2017.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_195",
+      "nombre": "HTTP Request Smuggling",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTTP/HTTP_Request_Smuggling.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_196",
+      "nombre": "How To Break MD5 And Other Hash Functions",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/How_To_Break_MD5_And_Other_Hash_Functions.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_197",
+      "nombre": "Other Injection Attacks",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Other_Injection_Attacks.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_198",
+      "nombre": "Win32 Assembly Components",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Assembly/Win32_Assembly_Components.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_199",
+      "nombre": "Macro Reliability in Win32 Exploits",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Macro_Reliability_in_Win32_Exploits.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_200",
+      "nombre": "known attacks against smartcards",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Security/known_attacks_against_smartcards.pdf",
+      "portada_libro": ""
+    }
+  ]
+}

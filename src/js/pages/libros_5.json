@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_101",
+      "nombre": "JavaScript from Frontend to Backend Eric Sarrion Packt",
+      "isbn": "9781801070317",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/JavaScript_from_Frontend_to_Backend_Eric_Sarrion_Packt_9781801070317.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61G01VwbdCL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_102",
+      "nombre": "Learn PHP 8 2nd Edition by Steve Prettyman Apress",
+      "isbn": "9781484262399",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/PHP/Learn_PHP_8_2nd_Edition_by_Steve_Prettyman_Apress_9781484262399.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61QzEriv2-L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_103",
+      "nombre": "Learning PHP MySQL & JavaScript 6th Edition Robin Nixon O'Reilly Media",
+      "isbn": "9781492093824",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/PHP/Learning_PHP_MySQL_&_JavaScript_6th_Edition_Robin_Nixon_O'Reilly_Media_9781492093824.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91FlBY2B6yL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_104",
+      "nombre": "Machine Learning Algorithms From Scratch With Python by Jason Brownlee",
+      "isbn": "Sin isbn",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Machine_Learning_Algorithms_From_Scratch_With_Python_by_Jason_Brownlee.pdf",
+      "portada_libro": "https://machinelearningmastery.com/wp-content/uploads/2022/11/MLAS-400.png"
+    },
+    {
+      "id": "art_105",
+      "nombre": "Machine Learning and Data Science Blueprints for Finance by Brad Lookabaugh Hariom Tatsat Sahil Puri OReilly",
+      "isbn": "9781492073055",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Machine_Learning_and_Data_Science_Blueprints_for_Finance_by_Brad_Lookabaugh_Hariom_Tatsat_Sahil_Puri_OReilly_9781492073055.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81c3R3zHCwL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_106",
+      "nombre": "Machine Learning with PyTorch and Scikit Learn Sebastian Raschka Packt",
+      "isbn": "9781801819312",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Machine_Learning_with_PyTorch_and_Scikit_Learn_Sebastian_Raschka_Packt_9781801819312.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/615IIVepfjL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_107",
+      "nombre": "Manning CSS in Depth",
+      "isbn": "9781617293450",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/CSS/Manning_CSS_in_Depth.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71Sz6GNplcL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_108",
+      "nombre": "Micro Frontends in Action by Michael Geers Manning",
+      "isbn": "9781617296871",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Micro_Frontend/Micro_Frontends_in_Action_by_Michael_Geers_Manning_9781617296871.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61ZhXDs0IQL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_109",
+      "nombre": "Natural Language Processing in Action",
+      "isbn": "9781617294631",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Natural_Language_Processing_in_Action.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/815QXT6ThAL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_110",
+      "nombre": "Natural Language Processing Recipes",
+      "isbn": "9781484242667",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Natural_Language_Processing_Recipes.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41PMNdKHBNL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_111",
+      "nombre": "Natural Language Processing with Python and spaCy Yuli Vasiliev No Starch Press",
+      "isbn": "9781718500525",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Natural_Language_Processing_with_Python_and_spaCy_Yuli_Vasiliev_No_Starch_Press_9781718500525.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71ie+27qZqL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_112",
+      "nombre": "Neural Network Projects with Python by James Loy Packt",
+      "isbn": "9781789138900",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Neural_Network_Projects_with_Python_by_James_Loy_Packt_9781789138900.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71crZwUa1XL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_113",
+      "nombre": "New Perspectives on HTML 5 and CSS Comprehensive 8th Edition by Patrick M Carey Cengage",
+      "isbn": "9780357107140",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/HTML/New_Perspectives_on_HTML_5_and_CSS_Comprehensive_8th_Edition_by_Patrick_M_Carey_Cengage_9780357107140.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51sTu-E1O7L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_114",
+      "nombre": "No Starch Press Cracking Codes with Python",
+      "isbn": "9781593278229",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/No_Starch_Press_Cracking_Codes_with_Python.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81KOL4RYF6L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_115",
+      "nombre": "No Starch Press Rootkits and Bootkits",
+      "isbn": "9781593277161",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/No_Starch_Press_Rootkits_and_Bootkits.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81qfjaThHzL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_116",
+      "nombre": "Object Design Style Guide",
+      "isbn": "9781617296857",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Object_Oriented_Programming/Object_Design_Style_Guide.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81+0tnL3m6L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_117",
+      "nombre": "OReilly Designing Data Intensive Applications",
+      "isbn": "9781449373320",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Data_Intensive_Apps/OReilly_Designing_Data_Intensive_Applications.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91JAIKQUkYL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_118",
+      "nombre": "OReilly Mastering Regular Expressions 3rd Edition",
+      "isbn": "0596528124",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Regular_Expressions/OReilly_Mastering_Regular_Expressions_3rd_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91Xts3KC7PL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_119",
+      "nombre": "Packt Hands On Blockchain for Python Developers",
+      "isbn": "9781788627856",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Packt_Hands_On_Blockchain_for_Python_Developers.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/81hDfkbrgiL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_120",
+      "nombre": "Packt Hands On Dark Web Analysis",
+      "isbn": "9781789133363",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/DarkWeb/Packt_Hands_On_Dark_Web_Analysis.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61TGTESjoqL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_121",
+      "nombre": "Packt Mastering GUI Programming with Python",
+      "isbn": "9781789612905",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Packt_Mastering_GUI_Programming_with_Python.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71AcUfJQsKL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_122",
+      "nombre": "Packt Mastering Yii",
+      "isbn": "9781785882425",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Yii_Framework/Packt_Mastering_Yii.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71BV3cd69JL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_123",
+      "nombre": "Packt Web Application Development with Yii2 and PHP",
+      "isbn": "9781783981885",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Yii_Framework/Packt_Web_Application_Development_with_Yii2_and_PHP.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61A3+Qn-yBL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_124",
+      "nombre": "Packt Yii Project Blueprints",
+      "isbn": "9781783287734",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Yii_Framework/Packt_Yii_Project_Blueprints.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91RDH0EO7xL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_125",
+      "nombre": "PHP and MySQL Novice to Ninja 7th Edition Tom Butler",
+      "isbn": "9781925836462",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/PHP/PHP_and_MySQL_Novice_to_Ninja_7th_Edition_Tom_Butler_9781925836462_SitePoint.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61X13vqRqqL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}
