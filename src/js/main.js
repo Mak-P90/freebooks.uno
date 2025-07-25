@@ -31,10 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
             libros = libros.concat(data.articulos ?? data);
             jsonPage++;
         } catch (err) {
-            console.error('Error loading data:', err);
-            finished = true;
-        } finally {
-            loaderElem?.classList.remove('active');
+            Logger.error('Error loading data:', err);
         }
     };
 
