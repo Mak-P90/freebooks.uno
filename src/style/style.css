@@ -10,6 +10,15 @@
 body {
     background-color: #ddd;
 }
+
+body.dark-mode {
+    background-color: #222;
+    color: #f0f0f0;
+}
+
+body.dark-mode #header {
+    background-color: #111;
+}
 p {
     line-height: 1.5;
     font-size: 1.1rem;
@@ -143,6 +152,12 @@ h1 {
     animation: colores 5s infinite;
     font-weight: bold;
     margin-bottom: 20px;
+}
+
+@keyframes colores {
+    0% { color: #E9DEAF; }
+    50% { color: #ff5722; }
+    100% { color: #E9DEAF; }
 }
 
 /* Tarjeta de Libro con Tamaño Medio */
