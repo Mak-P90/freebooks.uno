@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             libros = data.articulos;
             loadMore(); // Initial load after fetching data
         } catch (err) {
-            console.error('Error loading data:', err);
+            Logger.error('Error loading data:', err);
         }
     };
 
