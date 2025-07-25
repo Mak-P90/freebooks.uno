@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_151",
+      "nombre": "An Introduction to Cryptography",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/An_Introduction_to_Cryptography.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_152",
+      "nombre": "Beginning Spring Data: Data Access and Persistence for Spring Framework 6 and Boot 3",
+      "isbn": "9781484287637",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Java/Andres_Sacco_Beginning_Spring_Data_Data_Access_and_Persistence_for_Spring_Framework_6_and_Boot_3_Apress_(2022).pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_153",
+      "nombre": "Web Application Security Exploitation and Countermeasures for Modern Web Applications",
+      "isbn": "9781098143930",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Andrew_Hoffman_Web_Application_Security_Exploitation_and_Countermeasures_for_Modern_Web_Applications_O'Reilly_Media_(2024).pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_154",
+      "nombre": "The Antivirus Hacker\u2019s Handbook",
+      "isbn": "9781119028758",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Antivirus/Antivirus_Hacker_Handbook_2015.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_155",
+      "nombre": "UNIX Assembly Codes Development",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Assembly/asmcodes_1.0.2.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_156",
+      "nombre": "Attacking ECMAScript Engines with Redefinition",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/Attacking_ECMA_Script_Engines_With_Redefinition.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_157",
+      "nombre": "Attacking the Windows Kernel",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Windows/Attacking_the_Windows_Kernel.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_158",
+      "nombre": "Bash Reference Manual",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Linux/Bash_Scripting.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_159",
+      "nombre": "Basic Encryption and Decryption",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Basic_Encryption_and_Decryption.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_160",
+      "nombre": "Beginning Ethical Hacking with Kali Linux",
+      "isbn": ":9781484238905",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Beginning_Ethical_Hacking_with_Kali_Linux_Computational_Techniques_for_Resolving_Security_Issues_2018.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_161",
+      "nombre": "Beginning the Linux Command Line",
+      "isbn": "9781430218890",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Linux/Beginning_The_Linux_Command_Line.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_162",
+      "nombre": "Black Hat Python Python Programming for Hackers and Pentesters",
+      "isbn": "1593275900",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_163",
+      "nombre": "Buffer-Overflow Vulnerabilities and Attacks",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Buffer_Overflow_Vulner_Diff_Attacks_Lectre.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_164",
+      "nombre": "Car hackers handbook compressed",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Car_hackers_handbook_compressed.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_165",
+      "nombre": "Building Minecraft Server Modifications",
+      "isbn": "9781849696005",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Cody_M_Sommer_Building_Minecraft_Server_Modifications_Discover_how_to_program_your_own_server_plugins_and_augment_your_Minecraft_server_with_Bukkit_Packt_Publishing_(2013).pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_166",
+      "nombre": "Command Injection/Shell Injection",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Command_injection_shell_injection.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_167",
+      "nombre": "CompTIA PenTest+ Study Guide Exam PT0-001",
+      "isbn": "9781119504221",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Comptia_Pentest+_Study_Guide_2019.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_168",
+      "nombre": "Computer Organization and Design",
+      "isbn": "1558606041",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Computer_Architecture/Computer_Organization_and_Design_The_Hardware_Software_Interface_3rd_Ed_2004.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_169",
+      "nombre": "Computer Organization and Design, Soluciones Ejercicios",
+      "isbn": "1558606041",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Computer_Architecture/Computer_Organization_and_Design_The_Hardware_Software_Interface_3rd_ed_2004_soluciones.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_170",
+      "nombre": "Introduction to D3.js",
+      "isbn": "9781032411705",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/Conquering_JavaScript_D3.js_(2023).pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_171",
+      "nombre": "CRACKING CODES WITH PYTHON CRACKING CODES WITH PYTHON",
+      "isbn": "1593278225",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Cracking_Codes_with_Python_An_Introduction_To_Building_And_Breaking_Ciphers_2018.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_172",
+      "nombre": "Cracking ZIP file\u2019s Password",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Cracking_ZIP_Files_Password.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_173",
+      "nombre": "Decimalisation table attacks for PIN cracking",
+      "isbn": "",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Decimalisation_table_attacks_for_PIN.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_174",
+      "nombre": "Cryptography and Network Security Principles and Practices, Fourth Edition",
+      "isbn": ":0131873164",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Cryptography_And_Network_Security_Principles_And_Practices_2005.pdf",
+      "portada_libro": ""
+    },
+    {
+      "id": "art_175",
+      "nombre": "Cryptography Engineering Design Principles And Practical Applications 2010",
+      "isbn": "9780470474242",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Cryptography/Cryptography_Engineering_Design_Principles_And_Practical_Applications_2010.pdf",
+      "portada_libro": ""
+    }
+  ]
+}

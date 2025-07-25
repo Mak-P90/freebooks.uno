@@ -1,0 +1,179 @@
+{
+  "articulos": [
+    {
+      "id": "art_76",
+      "nombre": "Addison Wesley Essential Scrum Jul 2012",
+      "isbn": "9780137043293",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/SCRUM/Addison_Wesley_Essential_Scrum_Jul_2012.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51Kvilq+FoL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_77",
+      "nombre": "Addison Wesley Object Design Roles Responsibilities and Collaborations",
+      "isbn": "0201379430",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Object_Oriented_Programming/Addison_Wesley_Object_Design_Roles_Responsibilities_and_Collaborations_(Nov.2002).pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51aIEoQQ1TL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_78",
+      "nombre": "Advanced API Security 2nd Edition by Prabath Siriwardena Apress",
+      "isbn": "9781484220504",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Advanced_API_Security_2nd_Edition_by_Prabath_Siriwardena_Apress_9781484220498.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61wt-+--LhL._SL1360_.jpg"
+    },
+    {
+      "id": "art_79",
+      "nombre": "Advanced JavaScript Zachary Shute Packt",
+      "isbn": "9781789800104",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/Advanced_JavaScript_Zachary_Shute_Packt_9781789800104.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71-AdY1o8cL._SY522_.jpg"
+    },
+    {
+      "id": "art_80",
+      "nombre": "API Design Patterns JJ Geewax Manning",
+      "isbn": "9781617295850",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/API_Design_Patterns_JJ_Geewax_Manning_9781617295850.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/410kbzM0QhL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_81",
+      "nombre": "Apress Electron From Beginner to Pro",
+      "isbn": "9781484228265",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Electron/Apress_Electron_From_Beginner_to_Pro.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41HolWvh10L._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_82",
+      "nombre": "Apress Frameworkless Front End Development",
+      "isbn": "9781484249666",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Frameworkless/Apress_Frameworkless_Front_End_Development.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41r5QZBa5pL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_83",
+      "nombre": "Apress Web Standards Mastering HTML5 CSS3 and XML 2nd Edition",
+      "isbn": "1484208846",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Web_Standard/Apress_Web_Standards_Mastering_HTML5_CSS3_and_XML_2nd_Edition_1484208846.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61-VtWLScLL._SY522_.jpg"
+    },
+    {
+      "id": "art_84",
+      "nombre": "AW Practical Object Oriented Design 2nd Edition",
+      "isbn": "9780134456478",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Object_Oriented_Programming/AW_Practical_Object_Oriented_Design_2nd_Edition.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/517HQizgu3L._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_85",
+      "nombre": "Becoming the Hacker Adrian Pruteanu",
+      "isbn": "9781788627962",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Hacking/Becoming_the_Hacker_Adrian_Pruteanu.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/416ALYjpQ2L._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_86",
+      "nombre": "Building Micro Frontends Luca Mezzalira OReilly",
+      "isbn": "9781492082996",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Micro_Frontend/Building_Micro_Frontends_Luca_Mezzalira_OReilly_9781492082996.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41grVtwEFFL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_87",
+      "nombre": "Design and Build Great Web APIs by Mike Amundsen Pragmatic Bookshelf",
+      "isbn": "9781680506808",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Design_and_Build_Great_Web_APIs_by_Mike_Amundsen_Pragmatic_Bookshelf_9781680506808.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/515QDyNI2AL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_88",
+      "nombre": "Designing APIs with Swagger and OpenAPI Ponelat Rosenstock Manning",
+      "isbn": "9781617296284",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Designing_APIs_with_Swagger_and_OpenAPI_Ponelat_Rosenstock_Manning_9781617296284.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/4126pg7wcfL._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_89",
+      "nombre": "Designing Web APIs by Brenda Jin Saurabh Sahni Amir Shevat OReilly",
+      "isbn": "9781492026921",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/APIs/Designing_Web_APIs_by_Brenda_Jin_Saurabh_Sahni_Amir_Shevat_OReilly_9781492026921.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/51oE8QDWDfL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_90",
+      "nombre": "Feature Engineering and Selection by Kjell Johnson Max Kuhn CRC",
+      "isbn": "9781138079229",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Predictive_Models/Feature_Engineering_and_Selection_by_Kjell_Johnson_Max_Kuhn_CRC_9781138079229.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/41n+EzWlXLL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_91",
+      "nombre": "Fluent Python 2nd Edition Luciano Ramalho OReilly",
+      "isbn": "9781492056355",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Fluent_Python_2nd_Edition_Luciano_Ramalho_OReilly_9781492056355.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/411qhFCwczL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "art_92",
+      "nombre": "Full Stack Python Security Dennis Byrne Manning",
+      "isbn": "9781617298820",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Full_Stack_Python_Security_Dennis_Byrne_Manning_9781617298820.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/413cnZYmH7L._SX342_SY445_.jpg"
+    },
+    {
+      "id": "art_93",
+      "nombre": "Handbook of Usability and User Experience Rebelo Soares Ahram CRC Press",
+      "isbn": "9780367357702",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/UX/Handbook_of_Usability_and-User_Experience_Rebelo_Soares_Ahram_CRC_Press_9780367357702.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71D+3ydI20L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_94",
+      "nombre": "Hands On Enterprise Application Development with Python",
+      "isbn": "9781789532364",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Hands_On_Enterprise_Application_Development_with_Python_PDF.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/71fR8VCF6PL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_95",
+      "nombre": "Hands On Image Generation with TensorFlow by Soon Yau Cheong Packt",
+      "isbn": "9781838826789",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/TensorFlow/Hands_On_Image_Generation_with_TensorFlow_by_Soon_Yau_Cheong_Packt_9781838826789.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/810J6n2CtpL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_96",
+      "nombre": "Head First Object Oriented Analysis and Design by Brett D McLaughlin Dave West Gary Pollice O'Reilly",
+      "isbn": "9780596008673",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Object_Oriented_Programming/Head_First_Object_Oriented_Analysis_and_Design_by_Brett_D_McLaughlin_Dave_West_Gary_Pollice_O'Reilly_9780596008673.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/91mi4Cysj-L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_97",
+      "nombre": "How to Get to the Top of Google Search",
+      "isbn": "Sin isbn",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/SEO/How_to_Get_to_the_Top_of_Google_Search.pdf",
+      "portada_libro": "data:image/png;base64,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"
+    },
+    {
+      "id": "art_98",
+      "nombre": "Imbalanced Classification with Python Jason Brownlee",
+      "isbn": "9798468452240",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Imbalanced_Classification_with_Python_Jason_Brownlee_9798468452240.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/518ImdAjuxL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_99",
+      "nombre": "Introducing Python Modern Computing in Simple Packages 2nd Edition Bill Lubanovic O'Reilly Media",
+      "isbn": "9781492051367",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/Python/Introducing_Python_Modern_Computing_in_Simple_Packages_2nd_Edition_Bill_Lubanovic_O'Reilly_Media_9781492051367.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/918T0PFW1BL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "art_100",
+      "nombre": "JavaScript for Web Warriors 7th Edition Patrick Carey Sasha Vodnik Cengage Learning",
+      "isbn": "9780357638002",
+      "url": "https://raw.githubusercontent.com/Mak-P90/freebooks.github.io/main/JavaScript/JavaScript_for_Web_Warriors_7th_Edition_Patrick_Carey_Sasha_Vodnik_Cengage_Learning.pdf",
+      "portada_libro": "https://m.media-amazon.com/images/I/61DVu9M6aaL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}
