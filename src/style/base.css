@@ -1,0 +1,29 @@
+/* ----------------------- */
+/* -- BODY y CONSTANTES -- */
+/* ----------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+}
+body {
+    background-color: #ddd;
+}
+
+body.dark-mode {
+    background-color: #222;
+    color: #f0f0f0;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 1.1rem;
+}
+
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 900 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
