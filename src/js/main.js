@@ -135,6 +135,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Kick things off
-    fetchLibros();
+    // Kick things off by loading the first batch
+    fetchLibros().then(loadMore);
 });
