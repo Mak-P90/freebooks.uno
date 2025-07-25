@@ -1,6 +1,10 @@
 'use strict';
 
 document.addEventListener('DOMContentLoaded', () => {
+    const copyrElem = document.getElementById('copyr');
+    if (copyrElem) {
+        copyrElem.textContent = new Date().getFullYear();
+    }
     const container = document.querySelector('#cont');
     const themeSwitch = document.getElementById('themeSwitch');
 
