@@ -38,7 +38,7 @@ body.dark-mode #header {
     width: 60px;
     height: 34px;
 }
-#input {
+#themeSwitch {
     opacity: 0;
     width: 0;
     height: 0;
@@ -55,10 +55,10 @@ body.dark-mode #header {
     transition: 0.4s;
     border-radius: 34px;
 }
-#input:checked + .slider {
+#themeSwitch:checked + .slider {
     background-image: linear-gradient(#00000065, #8d8d8d);
 }
-#input:focus + .slider {
+#themeSwitch:focus + .slider {
     box-shadow: 0 0 1px #ffe600;
 }
 /* Control del Toggle (Círculo dentro del Slider) */
@@ -74,7 +74,7 @@ body.dark-mode #header {
     transition: 0.4s;
     box-shadow: inset 8px -4px 1px 0 #FAF8ED;
 }
-#input:checked + .slider:before {
+#themeSwitch:checked + .slider:before {
     transform: translateX(26px);
     background-image: radial-gradient(#E9DEAF, #fff261);
     box-shadow: none;
