@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Fetch a JSON chunk
     const fetchLibros = async () => {
         if (jsonPage > TOTAL_JSON_PAGES) { finished = true; return; }
+        loaderElem?.classList.add('active');
         try {
-            loaderElem?.classList.add('active');
             const res = await fetch(`${JSON_BASE}${jsonPage}.json`);
             if (!res.ok) { finished = true; return; }
             const data = await res.json();
@@ -32,6 +32,8 @@ document.addEventListener('DOMContentLoaded', () => {
             jsonPage++;
         } catch (err) {
             Logger.error('Error loading data:', err);
+        } finally {
+            loaderElem?.classList.remove('active');
         }
     };
 
