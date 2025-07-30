@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const image = document.createElement('img');
         image.classList.add('imagen_art');
         image.alt = nombre;
-        image.src = portada_libro;
+        image.src = portada_libro && portada_libro.trim() !== '' ? portada_libro : './src/assets/def_img.jpg';
         image.onerror = () => {
             if (!image.dataset.error) {
                 image.src = './src/assets/def_img.jpg';
