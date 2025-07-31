@@ -134,7 +134,5 @@ document.addEventListener('DOMContentLoaded', () => {
             applyTheme(link);
         });
     });
-
-    // Kick things off
-    fetchLibros();
+   loadMore();
 });
