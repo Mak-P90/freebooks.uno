@@ -18,13 +18,57 @@
     <title>Free Books</title>
 </head>
 <body id="body">
-    <header id="header">
-        <h1>Free Books</h1>
-        <div class="theme-toggle">
-            <label class="switch" for="themeSwitch" aria-label="Toggle dark mode">
-                <input type="checkbox" id="themeSwitch">
-                <span class="slider"></span>
-            </label>
+    <header id="header" class="header" role="banner" aria-label="Principal">
+        <div class="header__bar">
+            <a href="./index.html" class="header__logo">Free Books</a>
+            <nav class="header__nav" aria-label="Main">
+                <ul>
+                    <li class="header__item">
+                        <a href="#" class="header__link header__link--hasMega" aria-expanded="false" aria-controls="mega-categories">Categorías</a>
+                        <div class="header__mega" id="mega-categories" aria-hidden="true">
+                            <div class="header__mega-col">
+                                <strong>Lenguajes</strong>
+                                <a href="./Python">Python</a>
+                                <a href="./Java">Java</a>
+                                <a href="./JavaScript">JavaScript</a>
+                            </div>
+                            <div class="header__mega-col">
+                                <strong>Frameworks</strong>
+                                <a href="./Angular">Angular</a>
+                                <a href="./React">React</a>
+                                <a href="./Django">Django</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="header__item"><a class="header__link" href="README.md">About</a></li>
+                </ul>
+            </nav>
+            <div class="header__tools">
+                <div class="theme-toggle">
+                    <label class="switch" for="themeSwitch" aria-label="Toggle dark mode">
+                        <input type="checkbox" id="themeSwitch">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+            <button class="sidenav__toggle" aria-label="Menú" aria-expanded="false">&#9776;</button>
+        </div>
+        <div class="header__shadow" aria-hidden="true"></div>
+        <div class="sidenav" id="sidenav" aria-hidden="true">
+            <div class="sidenav__panel">
+                <button class="sidenav__back" aria-label="Volver">Atrás</button>
+                <ul class="sidenav__list">
+                    <li class="sidenav__item">
+                        <a href="#" class="sidenav__link sidenav__link--hasSub" aria-expanded="false">Categorías</a>
+                        <ul class="sidenav__sublist">
+                            <li class="sidenav__item"><a href="./Python" class="sidenav__link">Python</a></li>
+                            <li class="sidenav__item"><a href="./Java" class="sidenav__link">Java</a></li>
+                            <li class="sidenav__item"><a href="./JavaScript" class="sidenav__link">JavaScript</a></li>
+                        </ul>
+                    </li>
+                    <li class="sidenav__item"><a href="README.md" class="sidenav__link">About</a></li>
+                </ul>
+            </div>
         </div>
     </header>
     <main id="main">
@@ -39,6 +83,7 @@
     </footer>
 
     <script src="./src/js/logger.js"></script>
+    <script src="./src/js/header.js"></script>
     <script src="./src/js/main.js"></script>
 </body>
 </html>
