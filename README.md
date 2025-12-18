@@ -23,23 +23,7 @@ If any content is here by mistake and **you are the rights holder (or represent 
 ## Takedown policy (DMCA / Copyright)
 If you believe this repository infringes your rights, please submit a takedown request with enough information to locate the material and verify ownership/authority. Once validated, **the content or the corresponding link will be removed**.
 
-### How to request removal
-Open an issue with the **`takedown`** label or contact by email (recommended).
-
-Please include:
-1. Identification of the material: the book title and the **exact path/URL within the repo** (or the index link).
-2. Reasonable proof of ownership or authorization (e.g., official website, publisher link, documentation, etc.).
-3. Your contact information (name/entity, email).
-4. A good-faith statement that the use is not authorized by the rights holder, their agent, or the law.
-5. Signature (full legal name or digital signature).
-
----
-
-## Disclaimer
-This repository is provided “as is”, **without warranties**. The maintainer is not responsible for how third parties use the content. If you are a rights holder and something affects you, **the proper route is to request removal** using the process above.
-
 ---
 
 ## Contact
-- emeritacode@gmail.com
 - +34 627664962
