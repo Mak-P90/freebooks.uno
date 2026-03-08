@@ -24,6 +24,3 @@ If any content is here by mistake and **you are the rights holder (or represent 
 If you believe this repository infringes your rights, please submit a takedown request with enough information to locate the material and verify ownership/authority. Once validated, **the content or the corresponding link will be removed**.
 
 ---
-
-## Contact
-- +34 627664962
